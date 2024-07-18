@@ -1,7 +1,21 @@
-#pbandj{
-    width: 10%;
+*{
+    background-color: #f7f8f8;
 }
 
-.recipe-section{
-    margin: 20px;
+.navbar{
+    background-color: #373737;
+}
+
+.navbar #del-logo{
+    background-color: transparent;
+    height: 150px;
+    margin: 10px;
+    margin-left: 220px;
+    margin-top: 15px;
+}
+
+.navbar .navlinks .item{
+    overflow: hidden;
+    background-color: transparent;
+    list-style-type: none;
 }
